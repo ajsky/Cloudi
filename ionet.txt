@@ -6,3 +6,6 @@ payload:
   - 'cloud.io.net'
   - 'id.io.net'
   - 'ionet.betteruptime.com'
+  - 'docker.io'
+  - 'docker.com'
+  - 'cloudfront.net'
