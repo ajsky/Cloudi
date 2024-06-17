@@ -1,2 +1,24 @@
+# NAME: Binance Domain Proxy
 
-www.binance.com
+payload:
+  - 'binance.com '
+  - 'binance.cc'
+  - 'binance.us'
+  - 'binance.je'
+  - 'binance.org'
+  - 'binance.info'
+  - 'trustwallet.com'
+
+# 以下为OKX交易所地址
+  - 'static.coinall.ltd'
+  - 'www.yyjiagou.com'
+  - 'sentry.coinall.ltd'
+  - 'www.cnouyi.social'
+  - 'static.tyhgkj.cn'
+  - 'static.okx.com'
+  - 'coinall.ltd'
+  - 'yyjiagou.com'
+  - 'coinall.ltd'
+  - 'cnouyi.social'
+  - 'tyhgkj.cn'
+  - 'okx.com'
