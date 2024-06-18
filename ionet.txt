@@ -9,3 +9,5 @@ payload:
   - 'docker.io'
   - 'docker.com'
   - 'cloudfront.net'
+  - 'bugsnag.com'
+  - 'io.net'
