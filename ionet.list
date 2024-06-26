@@ -1,0 +1,17 @@
+# NAME: Ionet
+# HOST-KEYWORD: 4
+# HOST-SUFFIX: 662
+# HOST-WILDCARD: 1
+# USER-AGENT: 3
+HOST,auth0.io.solutions,Ionet
+HOST,api.io.solutions,Ionet
+HOST,cloud.io.net,Ionet
+HOST,id.io.net,Ionet
+HOST,ionet.betteruptime.com,Ionet
+HOST-SUFFIX,docker.io,Ionet
+HOST-SUFFIX,docker.com,Ionet
+HOST-SUFFIX,cloudfront.net,Ionet
+HOST-SUFFIX,bugsnag.com,Ionet
+HOST-SUFFIX,io.net,Ionet
+HOST-KEYWORD,io,Ionet
+USER-AGENT,ionet*,Ionet
