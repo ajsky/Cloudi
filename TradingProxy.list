@@ -1,0 +1,30 @@
+# NAME: Tradingproxy
+# HOST-KEYWORD: 4
+# HOST:2
+# HOST-SUFFIX: 662
+# HOST-WILDCARD: 1
+# USER-AGENT: 3
+# 以下为币安交易所
+HOST,www.binancezh.info,Tradedirect
+HOST-SUFFIX,binance.com,Tradingproxy
+HOST-SUFFIX,binance.cc,Tradingproxy
+HOST-SUFFIX,binance.us,Tradingproxy
+HOST-SUFFIX,binance.je,Tradingproxy
+HOST-SUFFIX,binance.org,Tradingproxy
+HOST-SUFFIX,binance.info,Tradingproxy
+HOST-SUFFIX,trustwallet.com,Tradingproxy
+# 以下为OKX交易所地址
+HOST,static.coinall.ltd,Tradingproxy
+HOST,www.yyjiagou.com,Tradingproxy
+HOST,sentry.coinall.ltd,Tradingproxy
+HOST,www.cnouyi.social,Tradingproxy
+HOST,static.tyhgkj.cn,Tradingproxy
+HOST,static.okx.com,Tradingproxy
+HOST-SUFFIX,coinall.ltd,Tradingproxy
+HOST-SUFFIX,yyjiagou.com,Tradingproxy
+HOST-SUFFIX,coinall.ltd,Tradingproxy
+HOST-SUFFIX,cnouyi.social,Tradingproxy
+HOST-SUFFIX,tyhgkj.cn,Tradingproxy
+HOST-SUFFIX,okx.com,Tradingproxy
+HOST-SUFFIX,okx.ac,Tradingproxy
+HOST-SUFFIX,okx.cab,Tradingproxy
