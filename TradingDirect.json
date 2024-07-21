@@ -1,62 +1,121 @@
-# NAME: Tradedirect
-# HOST-KEYWORD: 4
-# HOST:2
-# HOST-SUFFIX: 662
-# HOST-WILDCARD: 1
-# USER-AGENT: 3
-HOST,www.binancezh.info,Tradedirect
-HOST,www.suitechsui.io,Tradedirect
-HOST-SUFFIX,binancezh.info,Tradedirect
-HOST-SUFFIX,dashiyirui.cn,Tradedirect
-HOST-SUFFIX,dashiyirui.net,Tradedirect
-HOST-SUFFIX,dashiyirui.club,Tradedirect
-HOST-SUFFIX,dashiyirui.cc,Tradedirect
-HOST-SUFFIX,dashiyirui.cloud,Tradedirect
-HOST-SUFFIX,dashiyirui.link,Tradedirect
-HOST-SUFFIX,dashiyirui.top,Tradedirect
-HOST-SUFFIX,dashiyirui.biz,Tradedirect
-HOST-SUFFIX,dashiyirui.info,Tradedirect
-HOST-SUFFIX,dashiyirui.mobi,Tradedirect
-HOST-SUFFIX,mokexweb.ac,Tradedirect
-HOST-SUFFIX,mokexweb.cc,Tradedirect
-HOST-SUFFIX,mokexweb.cloud,Tradedirect
-HOST-SUFFIX,mokexweb.club,Tradedirect
-HOST-SUFFIX,mokexweb.co,Tradedirect
-HOST-SUFFIX,mokexweb.com,Tradedirect
-HOST-SUFFIX,mokexweb.info,Tradedirect
-HOST-SUFFIX,mokexweb.io,Tradedirect
-HOST-SUFFIX,mokexweb.link,Tradedirect
-HOST-SUFFIX,mokexweb.me,Tradedirect
-HOST-SUFFIX,mokexweb.net,Tradedirect
-HOST-SUFFIX,mokexweb.org,Tradedirect
-HOST-SUFFIX,mokexweb.tv,Tradedirect
-HOST-SUFFIX,mokexweb.us,Tradedirect
-HOST-SUFFIX,suitechsui.link,Tradedirect
-HOST-SUFFIX,suitechsui.net,Tradedirect
-HOST-SUFFIX,suitechsui.ninja,Tradedirect
-HOST-SUFFIX,suitechsui.org,Tradedirect
-HOST-SUFFIX,suitechsui.mobi,Tradedirect
-HOST-SUFFIX,suitechsui.tv,Tradedirect
-HOST-SUFFIX,suitechsui.solutions,Tradedirect
-HOST-SUFFIX,suitechsui.systems,Tradedirect
-HOST-SUFFIX,suitechsui.info,Tradedirect
-HOST-SUFFIX,suitechsui.biz,Tradedirect
-HOST-SUFFIX,suitechsui.help,Tradedirect
-HOST-SUFFIX,suitechsui.education,Tradedirect
-HOST-SUFFIX,suitechsui.in,Tradedirect
-HOST-SUFFIX,suitechsui.support,Tradedirect
-HOST-SUFFIX,suitechsui.io,Tradedirect
-HOST-SUFFIX,suitechsui.cloud,Tradedirect
-HOST-SUFFIX,suitechsui.club,Tradedirect
-HOST-SUFFIX,suitechsui.me,Tradedirect
-HOST-SUFFIX,suitechsui.technology,Tradedirect
-HOST-SUFFIX,suitechsui.guru,Tradedirect
-HOST-SUFFIX,suitechsui.click,Tradedirect
-HOST-SUFFIX,suitechsui.red,Tradedirect
-HOST-SUFFIX,suitechsui.us,Tradedirect
-HOST-SUFFIX,suitechsui.academy,Tradedirect
-HOST-SUFFIX,suitechsui.blue,Tradedirect
-HOST-SUFFIX,suitechsui.cc,Tradedirect
-HOST-SUFFIX,suitechsui.online,Tradedirect
-HOST-SUFFIX,suitechsui.cz,Tradedirect
-HOST-SUFFIX,suitechsui.works,Tradedirect
+{
+  "rules": [
+    {
+      "domain": [
+        "binancezh.info",
+        "dashiyirui.cn",
+        "dashiyirui.net",
+        "dashiyirui.club",
+        "dashiyirui.cc",
+        "dashiyirui.cloud",
+        "dashiyirui.link",
+        "dashiyirui.top",
+        "dashiyirui.biz",
+        "dashiyirui.info",
+        "dashiyirui.mobi",
+        "mokexweb.ac",
+        "mokexweb.cc",
+        "mokexweb.cloud",
+        "mokexweb.club",
+        "mokexweb.co",
+        "mokexweb.com",
+        "mokexweb.info",
+        "mokexweb.io",
+        "mokexweb.link",
+        "mokexweb.me",
+        "mokexweb.net",
+        "mokexweb.org",
+        "mokexweb.tv",
+        "mokexweb.us",
+        "suitechsui.link",
+        "suitechsui.net",
+        "suitechsui.ninja",
+        "suitechsui.org",
+        "suitechsui.mobi",
+        "suitechsui.tv",
+        "suitechsui.solutions",
+        "suitechsui.systems",
+        "suitechsui.info",
+        "suitechsui.biz",
+        "suitechsui.help",
+        "suitechsui.education",
+        "suitechsui.in",
+        "suitechsui.support",
+        "suitechsui.io",
+        "suitechsui.cloud",
+        "suitechsui.club",
+        "suitechsui.me",
+        "suitechsui.technology",
+        "suitechsui.guru",
+        "suitechsui.click",
+        "suitechsui.red",
+        "suitechsui.us",
+        "suitechsui.academy",
+        "suitechsui.blue",
+        "suitechsui.cc",
+        "suitechsui.online",
+        "suitechsui.cz",
+        "suitechsui.works"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".binancezh.info",
+        ".dashiyirui.cn",
+        ".dashiyirui.net",
+        ".dashiyirui.club",
+        ".dashiyirui.cc",
+        ".dashiyirui.cloud",
+        ".dashiyirui.link",
+        ".dashiyirui.top",
+        ".dashiyirui.biz",
+        ".dashiyirui.info",
+        ".dashiyirui.mobi",
+        ".mokexweb.ac",
+        ".mokexweb.cc",
+        ".mokexweb.cloud",
+        ".mokexweb.club",
+        ".mokexweb.co",
+        ".mokexweb.com",
+        ".mokexweb.info",
+        ".mokexweb.io",
+        ".mokexweb.link",
+        ".mokexweb.me",
+        ".mokexweb.net",
+        ".mokexweb.org",
+        ".mokexweb.tv",
+        ".mokexweb.us",
+        ".suitechsui.link",
+        ".suitechsui.net",
+        ".suitechsui.ninja",
+        ".suitechsui.org",
+        ".suitechsui.mobi",
+        ".suitechsui.tv",
+        ".suitechsui.solutions",
+        ".suitechsui.systems",
+        ".suitechsui.info",
+        ".suitechsui.biz",
+        ".suitechsui.help",
+        ".suitechsui.education",
+        ".suitechsui.in",
+        ".suitechsui.support",
+        ".suitechsui.io",
+        ".suitechsui.cloud",
+        ".suitechsui.club",
+        ".suitechsui.me",
+        ".suitechsui.technology",
+        ".suitechsui.guru",
+        ".suitechsui.click",
+        ".suitechsui.red",
+        ".suitechsui.us",
+        ".suitechsui.academy",
+        ".suitechsui.blue",
+        ".suitechsui.cc",
+        ".suitechsui.online",
+        ".suitechsui.cz",
+        ".suitechsui.works",
+        ]
+    }
+  ],
+  "version": 1
+}
